@@ -35,6 +35,6 @@ int main()
     cin >> tt.Can_nang;
     cout << "\n Chieu cao cua ban la:";
     cin >> tt.Chieu_cao;
-    Cong_thuc_BMI(tt);
+    Cong_thuc_BMI(tt) ;
     // system("pause");         
 }
